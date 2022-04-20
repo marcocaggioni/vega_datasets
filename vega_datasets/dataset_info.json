@@ -4,5 +4,11 @@
     "references": [
       "Donoho, David and Ramos, Ernesto (1982), ``PRIMDATA:  Data Sets for Use With PRIM-H'' (DRAFT)."
     ]
+  },
+  "mason1996yielding_5" : {
+    "description": "add description",
+    "references": [
+      "add reference"
+    ]
   }
 }
